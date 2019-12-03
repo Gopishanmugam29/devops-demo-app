@@ -37,7 +37,7 @@ $conn->close(); ?>
     <meta name="author" content="">
     <link rel="icon" href="book.ico">
 
-    <title>Opneshift  Demo Application</title>
+    <title>Demo Application for openshift</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap.min.css" rel="stylesheet">
